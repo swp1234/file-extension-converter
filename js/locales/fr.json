@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "File Extension Converter",
+    "description": "Rename file extensions, inspect MIME types, and download a renamed copy safely in your browser."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
